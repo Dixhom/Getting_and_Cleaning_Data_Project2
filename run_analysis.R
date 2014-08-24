@@ -58,9 +58,4 @@ run_analysis <- function(){
 	# output the tidy data as a txt file
 	write.table(merged4, "./tidydat.txt", row.name=FALSE)
 	
-	head(merged3)
-	dim(merged3)
-	head(merged4)
-	dim(merged4)
-	
 }
