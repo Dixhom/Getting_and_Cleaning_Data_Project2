@@ -5,15 +5,14 @@ Code book for tidydat.txt
 	A number corresponding to the name of activity a subject performed.
 
 
-```
-  activity      activity.name
-        1            WALKING
-        2   WALKING_UPSTAIRS
-        3 WALKING_DOWNSTAIRS
-        4            SITTING
-        5           STANDING
-        6             LAYING
-```
+|activity|activity.name|
+|:-------|:------------|
+|1|WALKING|
+|2|WALKING_UPSTAIRS|
+|3|WALKING_DOWNSTAIRS|
+|4|SITTING|
+|5|STANDING|  
+|6|LAYING|  
 
 2. subject  
 	A number corresponding to a subject  
