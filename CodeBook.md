@@ -4,6 +4,8 @@ Code book for tidydat.txt
 1. activity
 	A number corresponding to the name of activity a subject performed.
 
+
+```
   activity      activity.name
         1            WALKING
         2   WALKING_UPSTAIRS
@@ -11,6 +13,7 @@ Code book for tidydat.txt
         4            SITTING
         5           STANDING
         6             LAYING
+```
 
 2. subject 
 	A number corresponding to a subject
